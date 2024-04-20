@@ -1,0 +1,15 @@
+--- Exercises: Level 1  ---
+
+I have 4 siblings
+Family Members:  ('Adnan', 'Justin', 'Girl_1', 'Girl_2', 'Dad', 'Mom')
+--- Exercises: Level 2  ---
+
+Siblings:  ('Adnan', 'Justin', 'Girl_1', 'Girl_2')
+Parents:  ('Dad', 'Mom')
+ Tuple food_stuff_tp :  ('Apple', 'Orange', 'Tomatoes', 'Celery', 'Carrot', 'Broccoli', 'Poop', 'Feathers', 'Meat')
+List food_stuff_tp :  ['Apple', 'Orange', 'Tomatoes', 'Celery', 'Carrot', 'Broccoli', 'Poop', 'Feathers', 'Meat']
+Middle Item(s):  Carrot
+First 3 Items:  ['Apple', 'Orange', 'Tomatoes']
+Last 3 Items:  ['Poop', 'Feathers', 'Meat']
+Estonia' in nordic country?:  False
+Iceland' in nordic country?:  True

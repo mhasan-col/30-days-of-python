@@ -1,0 +1,16 @@
+--- Question 1 ---
+
+Max #:  26
+Min #:  19
+Median is:  24.0
+Average age is:  22.75
+The current list:  [19, 19, 19, 20, 22, 24, 24, 24, 25, 25, 26, 26]
+Min - Average:  3.75
+Max - Average:  3.25
+--- Question 2 ---
+
+Middle Country from List:  Lesotho
+Last countries_1 element:  Lesotho
+First countries_2 element:  Liberia
+Countries List:  ['China', 'Russia', 'USA']
+Scandic Countries List:  ['Denmark', 'Norway', 'Sweden', 'Finland']
