@@ -8,7 +8,7 @@ if user_age > 18: print("You are old enough to drive.")
 else: print("Wait for the missing amount of years")
 #2. Compare the values of my_age and your_age using if … else. Who is older (me or you)? Use input(“Enter your age: ”) to get the age as input. You can use a nested condition to print 'year' for 1 year difference in age, 'years' for bigger differences, and a custom text if my_age = your_age.
 my_age = 25
-if user_age > my_age:
+if user_age > my_age:   
   print("You're a grandpa by {} years".format(user_age - my_age))
 elif user_age < my_age:
   print("You're baby by {} years".format(my_age - user_age))
