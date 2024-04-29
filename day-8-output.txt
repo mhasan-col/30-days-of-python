@@ -1,9 +1,0 @@
---- Exercises: Level 1  ---
-
-Length of Student Dictionary:  9
-Type of skills key in dictionary:  <class 'list'>
-Skills of Dictionary Now:  ['None', 'Cooking', 'IDK', 'Bored']
-Keys:  dict_keys(['first_name', 'last_name', 'gender', 'age', 'married', 'skills', 'country', 'city', 'address'])
-Values:  dict_values(['Murtz', 'Hasan', 'Male', 25, False, ['None', 'Cooking', 'IDK', 'Bored'], 'USA', 'Alpharetta', '1000 Lake St'])
-Dictionary to List of Tuples:  dict_items([('first_name', 'Murtz'), ('last_name', 'Hasan'), ('gender', 'Male'), ('age', 25), ('married', False), ('skills', ['None', 'Cooking', 'IDK', 'Bored']), ('country', 'USA'), ('city', 'Alpharetta'), ('address', '1000 Lake St')])
-Type of Dictionary to List of Tuples:  <class 'dict_items'>

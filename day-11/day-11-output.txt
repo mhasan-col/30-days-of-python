@@ -1,0 +1,109 @@
+--- Exercises: Level 1  ---
+
+-- Question 1: 
+3
+-- Question 2: 
+314.1592653589793
+-- Question 3: 
+12
+
+-- Question 4: 
+86.0
+
+-- Question 5: 
+The season is Autumn
+None
+
+-- Question 6: 
+1.6666666666666667
+
+-- Question 7: 
+5.0
+
+-- Question 8: 
+1
+2
+3
+4
+5
+None
+
+-- Question 9: 
+[5, 4, 3, 2, 1]
+None
+['C', 'B', 'A']
+None
+
+-- Question 10: 
+['A', 'B', 'C']
+
+-- Question 11: 
+['Potato', 'Tomato', 'Mango', 'Milk', 'Meat']
+[2, 3, 7, 9, 5]
+
+-- Question 12: 
+['Potato', 'Tomato', 'Milk']
+[2, 7, 9]
+
+-- Question 13: 
+15
+55
+5050
+
+-- Question 14: 
+25
+
+-- Question 15: 
+30
+
+--- Exercises: Level 2  ---
+
+
+-- Question 1: 
+Evens: 6, Odds: 5
+
+-- Question 2: 
+3628800
+
+-- Question 3: 
+False
+
+-- Question 4a: 
+3.5
+
+-- Question 4b: 
+3.5
+
+-- Question 4c: 
+1
+
+-- Question 4d: 
+Max: 6, Min: 1
+
+-- Question 4e: 
+2.9166666666666665
+
+-- Question 4f: 
+1.8708286933869707
+
+--- Exercises: Level 3  ---
+
+
+-- Question 1: 
+10 is not a prime number
+None
+
+-- Question 2: 
+False
+
+-- Question 3: 
+NOT THE SAME TYPE OF ITEMS IN LIST
+
+-- Question 4: 
+True
+
+-- Question 5a: 
+dict_keys(['English', 'French', 'Arabic', 'Spanish', 'Portuguese', 'Russian', 'Dutch', 'German', 'Chinese', 'Serbian', 'Swahili', 'Italian', 'Swedish', 'Albanian', 'Croatian', 'Norwegian', 'Uzbek', 'Turkmen', 'Samoan', 'Guaraní', 'Armenian', '(Eastern) Punjabi', 'Bosnian', 'Tswana', 'Norwegian Bokmål', 'Norwegian Nynorsk', 'Malay', 'Fula', 'Lingala', 'Greek (modern)', 'Turkish', 'Slovak', 'Hindi', 'Urdu', 'Chamorro', 'Southern Sotho', 'Romanian', 'Afrikaans', 'Korean', 'Tamil', 'Swati', 'Pashto', 'Catalan', 'Azerbaijani', 'Bengali', 'Belarusian', 'Dzongkha', 'Aymara', 'Quechua', 'Bulgarian', 'Kirundi', 'Khmer', 'Sango', 'Kongo', 'Luba-Katanga', 'Czech', 'Danish', 'Tigrinya', 'Estonian', 'Amharic', 'Faroese', 'Fijian', 'Finnish', 'Georgian', 'Kalaallisut', 'Haitian', 'Latin', 'Hungarian', 'Icelandic', 'Indonesian', 'Persian (Farsi)', 'Kurdish', 'Irish', 'Manx', 'Hebrew (modern)', 'Japanese', 'Kazakh', 'Kyrgyz', 'Lao', 'Latvian', 'Lithuanian', 'Luxembourgish', 'Macedonian', 'Malagasy', 'Chichewa', 'Malaysian', 'Divehi', 'Maltese', 'Marshallese', 'Mongolian', 'Burmese', 'Nauruan', 'Nepali', 'Māori', 'Polish', 'Kinyarwanda', 'Slovene', 'Somali', 'Southern Ndebele', 'Tsonga', 'Venda', 'Xhosa', 'Zulu', 'Sinhalese', 'Tajik', 'Thai', 'Tonga (Tonga Islands)', 'Ukrainian', 'Bislama', 'Vietnamese', 'Shona', 'Northern Ndebele'])
+
+-- Question 5b: 
+dict_items([('China', 1377422166), ('India', 1295210000), ('United States of America', 323947000), ('Indonesia', 258705000), ('Brazil', 206135893), ('Pakistan', 194125062), ('Nigeria', 186988000), ('Bangladesh', 161006790), ('Russian Federation', 146599183), ('Japan', 126960000), ('Mexico', 122273473), ('Philippines', 103279800), ('Viet Nam', 92700000), ('Ethiopia', 92206005), ('Egypt', 91290000), ('Congo (Democratic Republic of the)', 85026000), ('Germany', 81770900), ('Iran (Islamic Republic of)', 79369900), ('Turkey', 78741053), ('France', 66710000), ('Thailand', 65327652), ('United Kingdom of Great Britain and Northern Ireland', 65110000), ('Italy', 60665551), ('South Africa', 55653654), ('Tanzania, United Republic of', 55155000), ('Myanmar', 51419420), ('Korea (Republic of)', 50801405), ('Colombia', 48759958), ('Kenya', 47251000), ('Spain', 46438422), ('Argentina', 43590400), ('Ukraine', 42692393), ('Algeria', 40400000), ('Sudan', 39598700), ('Poland', 38437239), ('Iraq', 37883543), ('Canada', 36155487), ('Uganda', 33860700), ('Morocco', 33337529), ('Saudi Arabia', 32248200), ('Uzbekistan', 31576400), ('Peru', 31488700), ('Malaysia', 31405416), ('Venezuela (Bolivarian Republic of)', 31028700), ('Nepal', 28431500), ('Ghana', 27670174), ('Afghanistan', 27657145), ('Yemen', 27478000), ('Mozambique', 26423700), ('Angola', 25868000), ("Korea (Democratic People's Republic of)", 25281000), ('Australia', 24117360), ('Taiwan', 23503349), ('Cameroon', 22709892), ("Côte d'Ivoire", 22671331), ('Madagascar', 22434363), ('Sri Lanka', 20966000), ('Niger', 20715000), ('Romania', 19861408), ('Burkina Faso', 19034397), ('Syrian Arab Republic', 18564000), ('Chile', 18191900), ('Mali', 18135000), ('Kazakhstan', 17753200), ('Netherlands', 17019800), ('Malawi', 16832910), ('Ecuador', 16545799), ('Guatemala', 16176133), ('Zambia', 15933883), ('Cambodia', 15626444), ('Senegal', 14799859), ('Chad', 14497000), ('Zimbabwe', 14240168), ('Guinea', 12947000), ('South Sudan', 12131000), ('Rwanda', 11553188), ('Belgium', 11319511), ('Cuba', 11239004), ('Tunisia', 11154400), ('Somalia', 11079000), ('Haiti', 11078033), ('Bolivia (Plurinational State of)', 10985059), ('Greece', 10858018), ('Benin', 10653654), ('Czech Republic', 10558524), ('Portugal', 10374822), ('Burundi', 10114505), ('Dominican Republic', 10075045), ('Sweden', 9894888), ('United Arab Emirates', 9856000), ('Hungary', 9823000), ('Azerbaijan', 9730500), ('Jordan', 9531712), ('Belarus', 9498700), ('Austria', 8725931), ('Tajikistan', 8593600), ('Honduras', 8576532), ('Israel', 8527400), ('Switzerland', 8341600), ('Papua New Guinea', 8083700), ('Hong Kong', 7324300), ('Bulgaria', 7153784), ('Togo', 7143000), ('Serbia', 7076372), ('Sierra Leone', 7075641), ('Paraguay', 6854536), ('El Salvador', 6520675), ("Lao People's Democratic Republic", 6492400), ('Libya', 6385000), ('Ireland', 6378000), ('Nicaragua', 6262703), ('Kyrgyzstan', 6047800), ('Lebanon', 5988000), ('Denmark', 5717014), ('Singapore', 5535000), ('Finland', 5491817), ('Slovakia', 5426252), ('Eritrea', 5352000), ('Norway', 5223256), ('Central African Republic', 4998000), ('Costa Rica', 4890379), ('Turkmenistan', 4751120), ('Congo', 4741000), ('New Zealand', 4697854), ('Palestine, State of', 4682467), ('Liberia', 4615000), ('Oman', 4420133), ('Croatia', 4190669), ('Kuwait', 4183658), ('Panama', 3814672), ('Georgia', 3720400), ('Mauritania', 3718678), ('Moldova (Republic of)', 3553100), ('Bosnia and Herzegovina', 3531159), ('Uruguay', 3480222), ('Puerto Rico', 3474182), ('Mongolia', 3093100), ('Armenia', 2994400), ('Albania', 2886026), ('Lithuania', 2872294), ('Jamaica', 2723246), ('Qatar', 2587564), ('Namibia', 2324388), ('Botswana', 2141206), ('Slovenia', 2064188), ('Macedonia (the former Yugoslav Republic of)', 2058539), ('Latvia', 1961600), ('Lesotho', 1894194), ('Gambia', 1882450), ('Gabon', 1802278), ('Republic of Kosovo', 1733842), ('Guinea-Bissau', 1547777), ('Bahrain', 1404900), ('Trinidad and Tobago', 1349667), ('Estonia', 1315944), ('Mauritius', 1262879), ('Equatorial Guinea', 1222442), ('Timor-Leste', 1167242), ('Swaziland', 1132657), ('Djibouti', 900000), ('Fiji', 867000), ('Cyprus', 847000), ('Réunion', 840974), ('Comoros', 806153), ('Bhutan', 775620), ('Guyana', 746900), ('Macao', 649100), ('Solomon Islands', 642000), ('Montenegro', 621810), ('Luxembourg', 576200), ('Suriname', 541638), ('Cabo Verde', 531239), ('Western Sahara', 510713), ('Malta', 425384), ('Brunei Darussalam', 411900), ('Guadeloupe', 400132), ('Martinique', 378243), ('Bahamas', 378040), ('Belize', 370300), ('Maldives', 344023), ('Iceland', 334300), ('Barbados', 285000), ('Vanuatu', 277500), ('French Polynesia', 271800), ('New Caledonia', 268767), ('French Guiana', 254541), ('Mayotte', 226915), ('Samoa', 194899), ('Sao Tome and Principe', 187356), ('Saint Lucia', 186000), ('Guam', 184200), ('Curaçao', 154843), ('Virgin Islands (U.S.)', 114743), ('Kiribati', 113400), ('Saint Vincent and the Grenadines', 109991), ('Aruba', 107394), ('Grenada', 103328), ('Tonga', 103252), ('Micronesia (Federated States of)', 102800), ('Jersey', 100800), ('Seychelles', 91400), ('Antigua and Barbuda', 86295), ('Isle of Man', 84497), ('Andorra', 78014), ('Dominica', 71293), ('Guernsey', 62999), ('Bermuda', 61954), ('Cayman Islands', 58238), ('American Samoa', 57100), ('Northern Mariana Islands', 56940), ('Greenland', 55847), ('Marshall Islands', 54880), ('Faroe Islands', 49376), ('Saint Kitts and Nevis', 46204), ('Monaco', 38400), ('Sint Maarten (Dutch part)', 38247), ('Liechtenstein', 37623), ('Saint Martin (French part)', 36979), ('Gibraltar', 33140), ('San Marino', 33005), ('Turks and Caicos Islands', 31458), ('Åland Islands', 28875), ('Virgin Islands (British)', 28514), ('Cook Islands', 18100), ('Palau', 17950), ('Bonaire, Sint Eustatius and Saba', 17408), ('Anguilla', 13452), ('Wallis and Futuna', 11750), ('Tuvalu', 10640), ('Nauru', 10084), ('Saint Barthélemy', 9417), ('Saint Pierre and Miquelon', 6069), ('Montserrat', 4922), ('Saint Helena, Ascension and Tristan da Cunha', 4255), ('British Indian Ocean Territory', 3000), ('Falkland Islands (Malvinas)', 2563), ('Svalbard and Jan Mayen', 2562), ('Norfolk Island', 2302), ('Christmas Island', 2072), ('Niue', 1470), ('Tokelau', 1411), ('Antarctica', 1000), ('Cocos (Keeling) Islands', 550), ('Holy See', 451), ('United States Minor Outlying Islands', 300), ('French Southern Territories', 140), ('Pitcairn', 56), ('South Georgia and the South Sandwich Islands', 30), ('Bouvet Island', 0), ('Heard Island and McDonald Islands', 0)])
