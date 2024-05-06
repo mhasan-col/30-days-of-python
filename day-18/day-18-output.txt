@@ -1,0 +1,24 @@
+
+--- Exercises: Level 1  ---
+
+
+-- Level 1 + Question 1: 
+: {(1, 'capabilities'), (1, 'to'), (2, 'do'), (1, 'if'), (4, 'an'), (2, 'teaching'), (3, 'can'), (1, 'Python'), (1, 'something'), (1, 'all'), (1, 'the'), (5, 'you'), (3, 'I'), (2, 'not'), (2, 'else'), (1, 'develop'), (1, 'If'), (2, 'teaching.'), (1, 'give'), (1, 'which'), (6, 'love.'), (2, 'what'), (1, 'application'), (6, 'love')}
+
+-- Level 1 + Question 2: 
+Distance from furthest points: : 20
+
+--- Exercises: Level 2  ---
+
+
+-- Level 2 + Question 1: 
+Expected True: : True
+False
+False
+True
+
+--- Exercises: Level 3  ---
+
+
+-- Level 3 + Question 1: 
+: {'I': 3, 'am': 1, 'a': 2, 'teacher': 2, 'and': 2, 'love': 1, 'teaching': 2, 'There': 1, 'is': 1, 'nothing': 1, 'as': 2, 'more': 2, 'rewarding': 1, 'educating': 1, 'empowering': 1, 'people': 1, 'found': 1, 'interesting': 1, 'than': 1, 'any': 1, 'other': 1, 'jobs': 1, 'Does': 1, 'this': 1, 'motivate': 1, 'you': 1, 'to': 1, 'be': 1}
